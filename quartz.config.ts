@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "梵刹の花园",
-    pageTitleSuffix: "",
+    pageTitle: "梵尘刹の花园",
+    pageTitleSuffix: "红尘湮灭，唯有尘刹",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "quartz.252262.xyz",
+    baseUrl: "richfan.eu.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
